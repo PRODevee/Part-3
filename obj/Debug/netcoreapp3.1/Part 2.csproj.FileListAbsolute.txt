@@ -1,0 +1,7 @@
+C:\Users\medak\Documents\C# project\Part 2\Part 2\obj\Debug\netcoreapp3.1\Part 2.csproj.AssemblyReference.cache
+C:\Users\medak\Documents\C# project\Part 2\Part 2\obj\Debug\netcoreapp3.1\Part_2.Form1.resources
+C:\Users\medak\Documents\C# project\Part 2\Part 2\obj\Debug\netcoreapp3.1\Part 2.csproj.GenerateResource.cache
+C:\Users\medak\Documents\C# project\Part 2\Part 2\obj\Debug\netcoreapp3.1\Part 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medak\Documents\C# project\Part 2\Part 2\obj\Debug\netcoreapp3.1\Part 2.AssemblyInfoInputs.cache
+C:\Users\medak\Documents\C# project\Part 2\Part 2\obj\Debug\netcoreapp3.1\Part 2.AssemblyInfo.cs
+C:\Users\medak\Documents\C# project\Part 2\Part 2\obj\Debug\netcoreapp3.1\Part 2.csproj.CoreCompileInputs.cache
